@@ -1,4 +1,4 @@
-## Hi there 👋
+## IF YOU CAN READ THIS YOUR DEVICE WILL SELF DESTRUCT IN 10...9...8...
 
 <!--
 **Sully-Pallis/Sully-Pallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
